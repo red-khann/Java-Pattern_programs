@@ -51,6 +51,12 @@ Contributions are welcome! If you’d like to add new pattern programs or improv
 - Fork the repository  
 - Add your changes  
 - Commit and push  
-- Create a pull request  
+- Create a pull request
+
+## 🪪 License
+This project is licensed under the MIT License — see the LICENSE file for details.  
+
+## ⭐ Support
+If you like this project, please **give it a star** on GitHub — it helps others discover it and motivates further development! 🌟  
 
 Keep practicing and improving your pattern logic to strengthen your Java fundamentals! ☕
